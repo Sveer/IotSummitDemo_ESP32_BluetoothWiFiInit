@@ -1,0 +1,1350 @@
+Handling lib "aws"...
+Handling lib "dash"...
+Handling lib "zz_boards"...
+HandliSuccess, built m5_hz/esp32 version 1.0 (20190914-092457).
+Firmware saved to C:\1\m5_hz\build\fw.zip
+ure"...
+Handling lib "rpc-uart"...
+Handling lib "azure"...
+dash: Does not exist, cloning from "https://github.com/mongoose-os-libs/dash"...
+Handling lib "sntp"...
+Handling lib "watson"...
+Handling lib "ili9341-spi"...
+Handling lib "wifi"...
+Handling lib "bt-common"...
+Handling lib "core"...
+aws: Does not exist, cloning from "https://github.com/mongoose-os-libs/aws"...
+Handling lib "ca-bundle"...
+rpc-service-config: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-service-config"...
+rpc-azure: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-azure"...
+rpc-uart: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-uart"...
+zz_boards: Does not exist, cloning from "https://github.com/mongoose-os-libs/boards"...
+rpc-mqtt: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-mqtt"...
+sntp: Does not exist, cloning from "https://github.com/mongoose-os-libs/sntp"...
+azure: Does not exist, cloning from "https://github.com/mongoose-os-libs/azure"...
+Handling lib "mqtt"...
+Handling lib "i2c"...
+Handling lib "ota-http-client"...
+spi: Does not exist, cloning from "https://github.com/mongoose-os-libs/spi"...
+ili9341-spi: Does not exist, cloning from "https://github.com/mongoose-os-libs/ili9341-spi"...
+i2c: Does not exist, cloning from "https://github.com/mongoose-os-libs/i2c"...
+ota-http-client: Does not exist, cloning from "https://github.com/mongoose-os-libs/ota-http-client"...
+Handling lib "gcp"...
+Handling lib "ota-http-server"...
+watson: Does not exist, cloning from "https://github.com/mongoose-os-libs/watson"...
+Handling lib "ota-shadow"...
+Handling lib "http-server"...
+wifi: Does not exist, cloning from "https://github.com/mongoose-os-libs/wifi"...
+mqtt: Does not exist, cloning from "https://github.com/mongoose-os-libs/mqtt"...
+core: Does not exist, cloning from "https://github.com/mongoose-os-libs/core"...
+Handling lib "mjs"...
+ca-bundle: Does not exist, cloning from "https://github.com/mongoose-os-libs/ca-bundle"...
+Handling lib "rpc-service-fs"...
+mjs: Does not exist, cloning from "https://github.com/mongoose-os-libs/mjs"...
+ota-shadow: Does not exist, cloning from "https://github.com/mongoose-os-libs/ota-shadow"...
+gcp: Does not exist, cloning from "https://github.com/mongoose-os-libs/gcp"...
+bt-common: Does not exist, cloning from "https://github.com/mongoose-os-libs/bt-common"...
+rpc-service-fs: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-service-fs"...
+http-server: Does not exist, cloning from "https://github.com/mongoose-os-libs/http-server"...
+ota-http-server: Does not exist, cloning from "https://github.com/mongoose-os-libs/ota-http-server"...
+watson: Checking out 2.15.0...
+watson: Done, hash c855e5a552356199e651c6f83eb1121a2de3b533
+watson: Hash is updated:  -> c855e5a552356199e651c6f83eb1121a2de3b533
+watson: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/watson"
+rpc-azure: Checking out 2.15.0...
+rpc-azure: Done, hash 583eca916b05f6639bd5846c044e3c6e24ee9be7
+rpc-azure: Hash is updated:  -> 583eca916b05f6639bd5846c044e3c6e24ee9be7
+rpc-azure: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-azure"
+zz_boards: Checking out 2.15.0...
+zz_boards: Done, hash 897a76f9b7306751dea4596f38df4486548ae2da
+zz_boards: Hash is updated:  -> 897a76f9b7306751dea4596f38df4486548ae2da
+zz_boards: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/boards"
+azure: Checking out 2.15.0...
+sntp: Checking out 2.15.0...
+azure: Done, hash 2ce3d46455097c449d8c8463eb9b88c00cb5ebe5
+azure: Hash is updated:  -> 2ce3d46455097c449d8c8463eb9b88c00cb5ebe5
+azure: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/azure"
+sntp: Done, hash 42591292134b829afbceeecd1d52cd510dd922c2
+sntp: Hash is updated:  -> 42591292134b829afbceeecd1d52cd510dd922c2
+sntp: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/sntp"
+ota-http-server: Checking out 2.15.0...
+http-server: Checking out 2.15.0...
+ili9341-spi: Checking out 2.15.0...
+ili9341-spi: Done, hash e85879a4dd5dc776b59a1e37a7aa23dc6d025045
+ota-http-server: Done, hash 6a4130f33dcde4940c079aef9c734d869df62f3b
+http-server: Done, hash c13d9801ef3914f7954cc2e3424a78b89cea7f25
+ili9341-spi: Hash is updated:  -> e85879a4dd5dc776b59a1e37a7aa23dc6d025045
+ili9341-spi: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi"
+ota-http-server: Hash is updated:  -> 6a4130f33dcde4940c079aef9c734d869df62f3b
+http-server: Hash is updated:  -> c13d9801ef3914f7954cc2e3424a78b89cea7f25
+ota-http-server: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ota-http-server"
+http-server: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/http-server"
+rpc-service-fs: Checking out 2.15.0...
+rpc-service-fs: Done, hash 5f252c2fa5ba989c09f734a4c407bcfef3699e38
+rpc-service-fs: Hash is updated:  -> 5f252c2fa5ba989c09f734a4c407bcfef3699e38
+rpc-service-fs: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-service-fs"
+rpc-service-config: Checking out 2.15.0...
+rpc-service-config: Done, hash b30e187977d8dafcb4297cff60e036855a7ff531
+rpc-service-config: Hash is updated:  -> b30e187977d8dafcb4297cff60e036855a7ff531
+rpc-service-config: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-service-config"
+i2c: Checking out 2.15.0...
+mjs: Checking out 2.15.0...
+rpc-mqtt: Checking out 2.15.0...
+ca-bundle: Checking out 2.15.0...
+ca-bundle: Done, hash 82e0f7f0ea4b584f092146c18c6e28c015238243
+mjs: Done, hash a65e6d7c84aa0b22795ca403296db1772371313a
+i2c: Done, hash a2135aa5d5ff423f949d9e08c481eb0dc0091f2a
+rpc-mqtt: Done, hash bf134e13dd6b41d680b1de92918145f2fe2ace23
+ca-bundle: Hash is updated:  -> 82e0f7f0ea4b584f092146c18c6e28c015238243
+ca-bundle: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ca-bundle"
+mjs: Hash is updated:  -> a65e6d7c84aa0b22795ca403296db1772371313a
+mjs: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs"
+i2c: Hash is updated:  -> a2135aa5d5ff423f949d9e08c481eb0dc0091f2a
+i2c: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/i2c"
+rpc-mqtt: Hash is updated:  -> bf134e13dd6b41d680b1de92918145f2fe2ace23
+rpc-mqtt: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-mqtt"
+mqtt: Checking out 2.15.0...
+wifi: Checking out 2.15.0...
+wifi: Done, hash 328e3d98c1c81163ecbda6cab18e53f1430b4f4e
+mqtt: Done, hash e28a8700aaf50587e93612661010478a7d7ef920
+wifi: Hash is updated:  -> 328e3d98c1c81163ecbda6cab18e53f1430b4f4e
+wifi: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi"
+mqtt: Hash is updated:  -> e28a8700aaf50587e93612661010478a7d7ef920
+mqtt: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mqtt"
+spi: Checking out 2.15.0...
+core: Checking out 2.15.0...
+rpc-uart: Checking out 2.15.0...
+spi: Done, hash 695570ae539cf829893b463758ab7e0b862a8865
+spi: Hash is updated:  -> 695570ae539cf829893b463758ab7e0b862a8865
+spi: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/spi"
+bt-common: Checking out 2.15.0...
+ota-http-client: Checking out 2.15.0...
+aws: Checking out 2.15.0...
+bt-common: Done, hash e2186ec88de30c885d2245bdf827b86e0e1359b9
+core: Done, hash 90f56f1e361c7d25ef8c2e3b9a83ef0369760f2e
+aws: Done, hash f30c05f56fb1b53f2c3d41fe1d0c1d05472bdd8c
+rpc-uart: Done, hash 4c68e5d7b3eecb19ccc6128f111a118384ed20b4
+ota-http-client: Done, hash e2f9fcfcae9e6efb24e6de6b42af6dd483dd675b
+bt-common: Hash is updated:  -> e2186ec88de30c885d2245bdf827b86e0e1359b9
+bt-common: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common"
+aws: Hash is updated:  -> f30c05f56fb1b53f2c3d41fe1d0c1d05472bdd8c
+aws: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/aws"
+rpc-uart: Hash is updated:  -> 4c68e5d7b3eecb19ccc6128f111a118384ed20b4
+rpc-uart: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-uart"
+ota-http-client: Hash is updated:  -> e2f9fcfcae9e6efb24e6de6b42af6dd483dd675b
+ota-http-client: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ota-http-client"
+core: Hash is updated:  -> 90f56f1e361c7d25ef8c2e3b9a83ef0369760f2e
+core: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/core"
+dash: Checking out 2.15.0...
+gcp: Checking out 2.15.0...
+dash: Done, hash 8cdeb065b914d83418b87b6336dfddd8aec63afb
+gcp: Done, hash 0cbd89cbf480b8186eb7245e88a2e9bd23278b83
+dash: Hash is updated:  -> 8cdeb065b914d83418b87b6336dfddd8aec63afb
+dash: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/dash"
+gcp: Hash is updated:  -> 0cbd89cbf480b8186eb7245e88a2e9bd23278b83
+gcp: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/gcp"
+ota-shadow: Checking out 2.15.0...
+ota-shadow: Done, hash b3b148e5c6c21ae226143c1f8025facea51228fc
+ota-shadow: Hash is updated:  -> b3b148e5c6c21ae226143c1f8025facea51228fc
+ota-shadow: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ota-shadow"
+Handling lib "rpc-common"...
+rpc-common: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-common"...
+rpc-common: Checking out 2.15.0...
+rpc-common: Done, hash 4591983b26e3a2d49e7f439856a8c95b788b3a8c
+rpc-common: Hash is updated:  -> 4591983b26e3a2d49e7f439856a8c95b788b3a8c
+rpc-common: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-common"
+Handling lib "shadow"...
+shadow: Does not exist, cloning from "https://github.com/mongoose-os-libs/shadow"...
+shadow: Checking out 2.15.0...
+shadow: Done, hash 3c21f7bfd2f5e2cbaa8e3f4621ff3f964e669b64
+shadow: Hash is updated:  -> 3c21f7bfd2f5e2cbaa8e3f4621ff3f964e669b64
+shadow: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/shadow"
+Handling lib "ota-common"...
+ota-common: Does not exist, cloning from "https://github.com/mongoose-os-libs/ota-common"...
+ota-common: Checking out 2.15.0...
+ota-common: Done, hash e83cf54aee6b05799f0c64ef4c002b3c418be9d8
+ota-common: Hash is updated:  -> e83cf54aee6b05799f0c64ef4c002b3c418be9d8
+ota-common: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ota-common"
+Handling lib "mongoose"...
+mongoose: Does not exist, cloning from "https://github.com/mongoose-os-libs/mongoose"...
+mongoose: Checking out 2.15.0...
+mongoose: Done, hash b9adb81060805d1de1b185549efb33ce920a210b
+mongoose: Hash is updated:  -> b9adb81060805d1de1b185549efb33ce920a210b
+mongoose: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mongoose"
+Handling lib "rpc-ws"...
+rpc-ws: Does not exist, cloning from "https://github.com/mongoose-os-libs/rpc-ws"...
+rpc-ws: Checking out 2.15.0...
+rpc-ws: Done, hash e8e507f4a91eb96a0c664fa33319b2e4f0ed89b2
+rpc-ws: Hash is updated:  -> e8e507f4a91eb96a0c664fa33319b2e4f0ed89b2
+rpc-ws: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-ws"
+Handling lib "mbedtls"...
+Handling lib "vfs-common"...
+mbedtls: Does not exist, cloning from "https://github.com/mongoose-os-libs/mbedtls"...
+vfs-common: Does not exist, cloning from "https://github.com/mongoose-os-libs/vfs-common"...
+vfs-common: Checking out 2.15.0...
+vfs-common: Done, hash ae048a19d8f17f332d66fb42d1b072e8fde2b3fa
+vfs-common: Hash is updated:  -> ae048a19d8f17f332d66fb42d1b072e8fde2b3fa
+vfs-common: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-common"
+mbedtls: Checking out 2.15.0...
+mbedtls: Done, hash a98f87ef6ef18777c95afb71b2884615d8971be6
+mbedtls: Hash is updated:  -> a98f87ef6ef18777c95afb71b2884615d8971be6
+mbedtls: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mbedtls"
+Handling lib "atca"...
+atca: Does not exist, cloning from "https://github.com/mongoose-os-libs/atca"...
+atca: Checking out 2.15.0...
+atca: Done, hash f27a1b85d87e373f8c10aadd7227af020d997aef
+atca: Hash is updated:  -> f27a1b85d87e373f8c10aadd7227af020d997aef
+atca: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca"
+Handling lib "freertos"...
+Handling lib "vfs-fs-lfs"...
+Handling lib "vfs-fs-spiffs"...
+vfs-fs-lfs: Does not exist, cloning from "https://github.com/mongoose-os-libs/vfs-fs-lfs"...
+vfs-fs-spiffs: Does not exist, cloning from "https://github.com/mongoose-os-libs/vfs-fs-spiffs"...
+freertos: Does not exist, cloning from "https://github.com/mongoose-os-libs/freertos"...
+vfs-fs-spiffs: Checking out 2.15.0...
+vfs-fs-spiffs: Done, hash 6fef5f74fc5f8e07b6324759066c0e9d06653693
+vfs-fs-spiffs: Hash is updated:  -> 6fef5f74fc5f8e07b6324759066c0e9d06653693
+vfs-fs-spiffs: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs"
+freertos: Checking out 2.15.0...
+freertos: Done, hash b8ed791ec9e61a5784f3ae78829b2ef2d1aca638
+freertos: Hash is updated:  -> b8ed791ec9e61a5784f3ae78829b2ef2d1aca638
+freertos: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/freertos"
+vfs-fs-lfs: Checking out 2.15.0...
+vfs-fs-lfs: Done, hash 5ce8db483be7703bf94b007460cf5e799a2bb8c0
+vfs-fs-lfs: Hash is updated:  -> 5ce8db483be7703bf94b007460cf5e799a2bb8c0
+vfs-fs-lfs: Prepared local dir: "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs"
+The flag --module is not given for the module "mjs_module", going to use the repository
+mjs_module: Does not exist, cloning from "https://github.com/cesanta/mjs"...
+mjs_module: Checking out 2.15.0...
+mjs_module: Done, hash 6334bd6b46fe1cf84ca3bedc763107b549f174d0
+The flag --repo is not given, going to use mongoose-os repository
+mongoose-os: Does not exist, cloning from "https://github.com/cesanta/mongoose-os"...
+mongoose-os: Checking out 2.15.0...
+mongoose-os: Done, hash 787ac38aae90231b9db9c71cf19dfc617ca58166
+Successfully fetched prebuilt binary for "mbedtls" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/libmbedtls-esp32-2.15.0.a"
+Successfully fetched prebuilt binary for "mongoose" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/libmongoose-esp32-2.15.0.a"
+Successfully fetched prebuilt binary for "ota-common" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/libota-common-esp32-2.15.0.a"
+Successfully fetched prebuilt binary for "ota-http-client" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/libota-http-client-esp32-2.15.0.a"
+Successfully fetched prebuilt binary for "ota-shadow" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/libota-shadow-esp32-2.15.0.a"
+Successfully fetched prebuilt binary for "dash" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/libdash-esp32-2.15.0.a"
+Successfully fetched prebuilt binary for "ota-http-server" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/libota-http-server-esp32-2.15.0.a"
+Sources: [/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/src/main.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/gen/mgos_deps_init.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/freertos/src/mgos_freertos.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/freertos/src/mgos_freertos_core_dump.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/i2c/src/mgos_i2c_master.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/i2c/src/esp32/esp32_i2c_master.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/src/mgos_atca.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib/atca_cfgs.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib/atca_command.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib/atca_device.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib/atca_iface.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib/basic/atca_basic.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib/basic/atca_helpers.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib/host/atca_host.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-common/src/mgos_vfs.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-common/src/mgos_vfs_dev.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-common/src/mgos_vfs_internal.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-common/src/esp32/esp32_fs.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-common/src/esp32/esp32_fs_crypt.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-common/src/esp32/esp32_vfs_dev_partition.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/src/mgos_vfs_lfs.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/littlefs/lfs.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/littlefs/lfs_util.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/littlefs1/lfs1.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/littlefs1/lfs1_util.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/src/mgos_vfs_fs_spiffs.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/src/spiffs/spiffs_cache.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/src/spiffs/spiffs_check.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/src/spiffs/spiffs_gc.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/src/spiffs/spiffs_hydrogen.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/src/spiffs/spiffs_nucleus.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/core/src/mgos_core.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mqtt/src/mgos_mqtt.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/shadow/src/mgos_shadow.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/aws/src/mgos_aws.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/aws/src/mgos_aws_greengrass.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/aws/src/mgos_aws_shadow.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/sntp/src/mgos_sntp.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/azure/src/mgos_azure.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/azure/src/mgos_azure_cm.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/azure/src/mgos_azure_dm.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/azure/src/mgos_azure_sas.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/azure/src/mgos_azure_shadow.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/src/mgos_bt.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/src/mgos_bt_gap.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/src/mgos_bt_js.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/src/esp32/esp32_bt.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/src/esp32/esp32_bt_gap.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/src/esp32/esp32_bt_gattc.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/src/esp32/esp32_bt_gatts.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-common/src/mg_rpc.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-common/src/mg_rpc_channel.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-common/src/mg_rpc_channel_http.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-common/src/mgos_rpc.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-ws/src/mgos_rpc_channel_ws.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-ws/src/mgos_rpc_ws.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/gcp/src/mgos_gcp.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/http-server/src/mgos_http_server.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/spi/src/mgos_spi.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/spi/src/mgos_spi_mjs.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/spi/src/esp32/esp32_spi_master.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/src/mgos_ili9341.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/src/mgos_ili9341_font.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/third_party/adafruit/src/mgos_ili9341_primitives.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/src/mos_mjs.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/modules/mjs/mjs.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/esp32/src/esp32_mjs.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-azure/src/mgos_rpc_channel_azure_dm.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-mqtt/src/mgos_rpc_channel_mqtt.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-service-config/src/mgos_service_config.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-service-fs/src/mgos_service_filesystem.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-uart/src/mgos_rpc_channel_uart.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/watson/src/mgos_watson.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/src/mgos_wifi.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/src/mjs_wifi.c /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/src/esp32/esp32_wifi.c]
+Include dirs: [/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/freertos/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/freertos/include/esp32 /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/i2c/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mbedtls/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mbedtls/include/esp32 /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mbedtls/mbedtls/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-common/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-common/include/esp32 /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mongoose/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/littlefs /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/littlefs1 /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/include/spiffs /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/include/esp32 /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/core/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/core/include/esp32 /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mqtt/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/shadow/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/aws/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/azure/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/include/esp32 /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ota-common/src /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ota-common/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ota-common/include/esp32 /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ota-http-client/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-common/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-ws/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/dash/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/gcp/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/http-server/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/spi/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/third_party/adafruit/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-mqtt/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-service-config/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-service-fs/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-uart/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/watson/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/include /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/include/esp32]
+Binary libs: [/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/libmbedtls-esp32-2.15.0.a /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/libmongoose-esp32-2.15.0.a /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/libota-common-esp32-2.15.0.a /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/libota-http-client-esp32-2.15.0.a /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/libota-shadow-esp32-2.15.0.a /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/libdash-esp32-2.15.0.a /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/libota-http-server-esp32-2.15.0.a]
+Building...
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556" to "/app"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/modules/mongoose-os" to "/mongoose-os"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/modules/mongoose-os" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/modules/mongoose-os"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/gen" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/gen"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/freertos/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/freertos/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/i2c/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/i2c/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/i2c/src/esp32" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/i2c/src/esp32"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib/basic" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib/basic"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib/crypto" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib/crypto"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib/hal" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib/hal"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib/host" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib/host"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-common/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-common/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-common/src/esp32" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-common/src/esp32"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/littlefs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/littlefs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/littlefs1" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/littlefs1"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/src/spiffs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/src/spiffs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/core/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/core/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mqtt/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mqtt/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/shadow/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/shadow/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/aws/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/aws/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/sntp/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/sntp/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/azure/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/azure/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/src/esp32" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/src/esp32"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-common/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-common/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-ws/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-ws/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/gcp/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/gcp/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/http-server/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/http-server/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/spi/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/spi/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/spi/src/esp32" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/spi/src/esp32"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/third_party/adafruit/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/third_party/adafruit/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/modules/mjs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/modules/mjs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/esp32/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/esp32/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-azure/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-azure/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-mqtt/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-mqtt/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-service-config/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-service-config/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-service-fs/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-service-fs/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-uart/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-uart/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/watson/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/watson/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/src" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/src"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/src/esp32" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/src/esp32"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/freertos/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/freertos/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/i2c/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/i2c/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mbedtls/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mbedtls/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mbedtls/include/esp32" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mbedtls/include/esp32"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mbedtls/mbedtls/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mbedtls/mbedtls/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-common/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-common/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-common/include/esp32" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-common/include/esp32"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mongoose/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mongoose/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/littlefs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/littlefs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/littlefs1" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/littlefs1"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/include/spiffs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/include/spiffs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/include/esp32" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/include/esp32"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/core/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/core/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mqtt/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mqtt/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/shadow/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/shadow/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/aws/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/aws/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/azure/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/azure/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/include/esp32" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/include/esp32"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ota-common/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ota-common/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ota-common/include/esp32" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ota-common/include/esp32"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ota-http-client/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ota-http-client/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-common/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-common/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-ws/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-ws/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/dash/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/dash/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/gcp/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/gcp/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/http-server/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/http-server/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/spi/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/spi/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/third_party/adafruit/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/third_party/adafruit/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-mqtt/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-mqtt/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-service-config/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-service-config/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-service-fs/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-service-fs/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-uart/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-uart/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/watson/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/watson/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/include" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/include"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/include/esp32" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/include/esp32"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ca-bundle/fs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ca-bundle/fs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/fs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/fs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/modules/mjs/mjs/lib" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/modules/mjs/mjs/lib"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/i2c/mjs_fs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/i2c/mjs_fs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mqtt/mjs_fs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mqtt/mjs_fs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/shadow/mjs_fs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/shadow/mjs_fs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/aws/mjs_fs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/aws/mjs_fs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/azure/mjs_fs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/azure/mjs_fs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/mjs_fs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/mjs_fs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ota-http-client/mjs_fs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ota-http-client/mjs_fs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-common/mjs_fs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-common/mjs_fs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/dash/mjs_fs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/dash/mjs_fs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/gcp/mjs_fs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/gcp/mjs_fs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/spi/mjs_fs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/spi/mjs_fs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/mjs_fs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/mjs_fs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/watson/mjs_fs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/watson/mjs_fs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/mjs_fs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/mjs_fs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/esp32/fs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/esp32/fs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/fs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/fs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs"
+mount from "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/gen" to "/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/gen"
+Docker arguments: run --name mos_build_2019-09-14T09-24-28-00_6766214240635797752 --rm -i -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/modules/mjs:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/modules/mjs -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/dash/mjs_fs:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/dash/mjs_fs -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/mjs_fs:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/mjs_fs -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mbedtls/mbedtls/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mbedtls/mbedtls/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/azure/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/azure/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/fs:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/fs -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/azure/mjs_fs:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/azure/mjs_fs -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mqtt/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mqtt/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/modules/mjs/mjs/lib:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/modules/mjs/mjs/lib -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-common/src/esp32:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-common/src/esp32 -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/spi/src/esp32:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/spi/src/esp32 -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/core/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/core/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-uart/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-uart/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ota-http-client/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ota-http-client/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/mjs_fs:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/mjs_fs -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/spi/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/spi/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-common/include/esp32:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-common/include/esp32 -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/include/esp32:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/include/esp32 -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/core/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/core/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/include/esp32:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/include/esp32 -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/src/spiffs:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/src/spiffs -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mbedtls/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mbedtls/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/aws/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/aws/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/i2c/mjs_fs:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/i2c/mjs_fs -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-common/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-common/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-mqtt/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-mqtt/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-common/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-common/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mongoose/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mongoose/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/shadow/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/shadow/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/watson/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/watson/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib/basic:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib/basic -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/esp32/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/esp32/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/src/esp32:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/src/esp32 -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/aws/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/aws/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/gcp/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/gcp/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/watson/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/watson/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-service-config/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-service-config/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib/hal:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib/hal -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/littlefs1:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/littlefs1 -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/freertos/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/freertos/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ota-common/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ota-common/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/gen:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/gen -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/azure/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/azure/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-common/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-common/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ota-common/include/esp32:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ota-common/include/esp32 -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/aws/mjs_fs:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/aws/mjs_fs -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-uart/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-uart/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/i2c/src/esp32:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/i2c/src/esp32 -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-common/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-common/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/gcp/mjs_fs:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/gcp/mjs_fs -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/sntp/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/sntp/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/third_party/adafruit/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/third_party/adafruit/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/spi/mjs_fs:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/spi/mjs_fs -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/shadow/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/shadow/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-mqtt/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-mqtt/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-service-config/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-service-config/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/dash/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/dash/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/mjs_fs:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/mjs_fs -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib/crypto:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib/crypto -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/littlefs:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-lfs/littlefs -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-service-fs/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-service-fs/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/fs:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/fs -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mbedtls/include/esp32:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mbedtls/include/esp32 -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib/host:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/cryptoauthlib/lib/host -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/watson/mjs_fs:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/watson/mjs_fs -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/atca/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/spi/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/spi/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/gcp/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/gcp/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mqtt/mjs_fs:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mqtt/mjs_fs -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ota-http-client/mjs_fs:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ota-http-client/mjs_fs -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/esp32/fs:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/esp32/fs -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556:/app -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/i2c/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/i2c/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/i2c/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/i2c/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ca-bundle/fs:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ca-bundle/fs -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/third_party/adafruit/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/third_party/adafruit/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/http-server/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/http-server/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/include/esp32:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/include/esp32 -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/modules/mongoose-os:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/modules/mongoose-os -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/src/esp32:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/src/esp32 -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-ws/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-ws/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/http-server/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/http-server/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/modules/mongoose-os:/mongoose-os -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/freertos/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/freertos/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-service-fs/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-service-fs/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/include/spiffs:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/vfs-fs-spiffs/include/spiffs -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mqtt/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mqtt/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-ws/include:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-ws/include -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-azure/src:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-azure/src -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/shadow/mjs_fs:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/shadow/mjs_fs -v /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-common/mjs_fs:/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-common/mjs_fs --user 0:0 docker.io/mgos/esp32-build:3.2-r7 /bin/bash -c nice make '-j' '8' '-C' '/app' '-f' '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/modules/mongoose-os/platforms/esp32/Makefile.build' 'all' 'MGOS_VARS_FILE=/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/gen/vars.mk'
+make: Entering directory '/app'
+/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/modules/mongoose-os/platforms/esp32/Makefile.build:186: warning: overriding recipe for target 'defconfig'
+/opt/Espressif/esp-idf/make/project_config.mk:76: warning: ignoring old recipe for target 'defconfig'
+/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/modules/mongoose-os/platforms/esp32/Makefile.build:186: warning: overriding recipe for target 'menuconfig'
+/opt/Espressif/esp-idf/make/project_config.mk:63: warning: ignoring old recipe for target 'menuconfig'
+/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/modules/mongoose-os/platforms/esp32/Makefile.build:228: warning: overriding recipe for target 'clean'
+/opt/Espressif/esp-idf/components/app_update/Makefile.projbuild:60: warning: ignoring old recipe for target 'clean'
+GENCONFIG
+#
+# configuration written to /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/gen/sdkconfig
+#
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/spiffs'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/xtensa-debug-module'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/vfs'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/tcpip_adapter'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/smartconfig_ack'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/mosapp'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/spiffs'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/vfs'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/xtensa-debug-module'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/smartconfig_ack'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/tcpip_adapter'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/spi_flash'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/pthread'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/soc'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/partition_table'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/nvs_flash'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/partition_table'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/mosapp'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/micro-ecc'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/newlib'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/nvs_flash'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/pthread'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/soc'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/log'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/spi_flash'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/heap'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/newlib'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/micro-ecc'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/freertos'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/expat'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esptool_py'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/ethernet'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esptool_py'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp_ringbuf'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/log'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/heap'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/freertos'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp_adc_cal'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/expat'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/cxx'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/ethernet'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp_event'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader_support'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp_ringbuf'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp_adc_cal'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/cxx'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/app_update'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/app_trace'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader_support'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp_event'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/app_update'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/app_trace'
+/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/modules/mongoose-os/platforms/esp32/Makefile.build:228: warning: overriding recipe for target 'clean'
+/opt/Espressif/esp-idf/components/app_update/Makefile.projbuild:60: warning: ignoring old recipe for target 'clean'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/app_trace'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/app_update'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/app_update/esp_ota_ops.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/cxx'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader_support'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/app_trace/app_trace_util.o
+make[1]: Entering directory '/opt/Espressif/esp-idf/components/bootloader/subproject'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp_adc_cal'
+CXX /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/cxx/cxx_guards.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp_adc_cal/esp_adc_cal.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader_support/src/bootloader_flash.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver/spi_common.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader_support/src/flash_qio_mode.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/app_trace/host_file_io.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp_adc_cal/libesp_adc_cal.a
+Python requirements from /opt/Espressif/esp-idf/requirements.txt are satisfied.
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/app_trace/app_trace.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/app_update/libapp_update.a
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader_support/src/efuse.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader_support/src/bootloader_utility.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp_adc_cal'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/app_update'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/app_trace/gcov/gcov_rtio.o
+make[2]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/main'
+make[2]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/soc'
+make[2]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/soc'
+CXX /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/cxx/cxx_exception_stubs.o
+make[2]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/main'
+make[2]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/micro-ecc'
+make[2]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/micro-ecc'
+make[2]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/spi_flash'
+make[2]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/spi_flash'
+make[2]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/log'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver/spi_master.o
+make[2]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/log'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader_support/src/bootloader_common.o
+make[2]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/bootloader_support'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader_support/src/secure_boot.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader_support/src/bootloader_clock.o
+make[2]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/bootloader_support'
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/app_trace/libapp_trace.a
+make[2]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/esptool_py'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/app_trace'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp_event'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp_event/default_event_loop.o
+make[2]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/esptool_py'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader_support/src/secure_boot_signatures.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader_support/src/flash_partitions.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader_support/src/esp_image_format.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader_support/src/bootloader_sha.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader_support/src/flash_encrypt.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/system_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp_event/esp_event.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader_support/src/bootloader_random.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/cxx/libcxx.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/cxx'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp_ringbuf'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp_ringbuf/ringbuf.o
+make[2]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/bootloader_support'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/bootloader_support/src/bootloader_flash.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/bootloader_support/src/flash_qio_mode.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/bootloader_support/src/efuse.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader_support/libbootloader_support.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader_support'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/ethernet'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/ethernet/emac_dev.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/bootloader_support/src/bootloader_init.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/reset_reason.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/bootloader_support/src/bootloader_utility.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/expat'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/expat/expat/expat/lib/xmltok.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp_event/esp_event_private.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/ethernet/emac_main.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/lib_printf.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver/sigmadelta.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/bootloader_support/src/bootloader_common.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/task_wdt.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp_event/libesp_event.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp_event'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/bootloader_support/src/secure_boot.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/freertos'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/freertos/xtensa_intr.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver/uart.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp_ringbuf/libesp_ringbuf.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp_ringbuf'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/heap'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/heap/heap_caps_init.o
+make[2]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/log'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/log/log.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/freertos/queue.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/bootloader_support/src/bootloader_clock.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/bootloader_support/src/secure_boot_signatures.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/sleep_modes.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/bootloader_support/src/flash_partitions.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/log/liblog.a
+make[2]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/log'
+make[2]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/spi_flash'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/spi_flash/spi_flash_rom_patch.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/heap/heap_caps.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/bootloader_support/src/esp_image_format.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/ethernet/eth_phy/phy_common.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/freertos/croutine.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/ethernet/eth_phy/phy_lan8720.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/spi_flash/libspi_flash.a
+make[2]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/spi_flash'
+make[2]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/micro-ecc'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/micro-ecc/micro-ecc/uECC.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/heap/multi_heap.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/bootloader_support/src/bootloader_sha.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/ethernet/eth_phy/phy_ip101.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/dbg_stubs.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/freertos/list.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/hw_random.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/ethernet/eth_phy/phy_tlk110.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/bootloader_support/src/flash_encrypt.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/esp_adapter.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/freertos/xtensa_init.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/ethernet/libethernet.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/ethernet'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/log'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/log/log.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/freertos/port.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/bootloader_support/src/bootloader_random.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/heap/heap_trace.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/bootloader_support/libbootloader_support.a
+make[2]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/bootloader_support'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/freertos/event_groups.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver/sdio_slave.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/freertos/tasks.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/cache_sram_mmu.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/log/liblog.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/log'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/restore.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/heap/libheap.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/heap'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/pm_locks.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/apps/dhcpserver/dhcpserver.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/freertos/timers.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/crosscore_int.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/phy_init.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/micro-ecc/libmicro-ecc.a
+make[2]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/micro-ecc'
+make[2]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/soc'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/soc/esp32/soc_memory_layout.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/pm_trace.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/soc/esp32/rtc_pm.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/soc/esp32/rtc_periph.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/freertos/FreeRTOS-openocd.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/cache_err_int.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/soc/esp32/cpu_util.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/soc/esp32/sdmmc_periph.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/freertos/xtensa_overlay_os_hook.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/soc/esp32/rtc_wdt.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/esp_timer_esp32.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/apps/ping/ping.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver/i2c.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/spiram_psram.o
+AS /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/freertos/xtensa_intr_asm.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/soc/esp32/sdio_slave_periph.o
+AS /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/freertos/xtensa_context.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/soc/esp32/rtc_init.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/cpu_start.o
+AS /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/freertos/xtensa_vectors.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/clk.o
+AS /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/freertos/xtensa_vector_defaults.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/apps/ping/esp_ping.o
+AS /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/freertos/portasm.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/soc/esp32/spi_periph.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/soc/esp32/rtc_clk_init.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/freertos/libfreertos.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/freertos'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/micro-ecc'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/soc/esp32/gpio_periph.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/micro-ecc/micro-ecc/uECC.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/soc/esp32/rtc_sleep.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/panic.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/api/netbuf.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/freertos_hooks.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/soc/esp32/rtc_time.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/soc/esp32/rtc_clk.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/soc/src//memory_layout_utils.o
+make[2]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/main'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/main/bootloader_start.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/api/api_lib.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/api/netifapi.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/gdbstub.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/main/libmain.a
+make[2]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/main'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/fast_crypto_ops.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/api/tcpip.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/ipc.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/soc/libsoc.a
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver/sdspi_transaction.o
+make[2]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/soc'
+LD /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/bootloader.elf
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/intr_alloc.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/ets_timer_legacy.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/api/netdb.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver/ledc.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/api/err.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/expat/expat/expat/lib/loadlibrary.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/expat/expat/expat/lib/xmltok_ns.o
+esptool.py v2.6
+make[1]: Leaving directory '/opt/Espressif/esp-idf/components/bootloader/subproject'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/newlib'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/newlib/time.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/micro-ecc/libmicro-ecc.a
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/expat/expat/expat/lib/xmlparse.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/micro-ecc'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/expat/expat/expat/lib/xmlrole.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/core_dump.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/api/api_msg.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/api/sockets.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/coexist.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/newlib/termios.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/newlib/syscalls.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/int_wdt.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/expat/expat/expat/lib/xmltok_impl.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/nvs_flash'
+CXX /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/nvs_flash/src/nvs_types.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/newlib/syscall_table.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/wifi_init.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/event_loop.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/newlib/poll.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/pm_esp32.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver/sdspi_host.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/pthread'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/newlib/reent_init.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/pthread/pthread_local_storage.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/newlib/locks.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/esp_err_to_name.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/apps/sntp/sntp.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/pthread/pthread_cond_var.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/newlib/random.o
+CXX /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/nvs_flash/src/nvs_ops.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/newlib/pthread.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/stack_check.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/pthread/pthread.o
+CXX /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/nvs_flash/src/nvs_item_hash_list.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver/gpio.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/newlib/select.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/mem.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/esp_timer.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/newlib/libnewlib.a
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/dport_access.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/newlib'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver/pcnt.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/esp_himem.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/pthread/libpthread.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/pthread'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/brownout.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/soc'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/soc/esp32/soc_memory_layout.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/init.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/soc/esp32/rtc_pm.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/spiram.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/event_default_handlers.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver/sdspi_crc.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/soc/esp32/rtc_periph.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver/rmt.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/soc/esp32/cpu_util.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/memp.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/hwcrypto/sha.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/soc/esp32/sdmmc_periph.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver/mcpwm.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/soc/esp32/rtc_wdt.o
+CXX /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/nvs_flash/src/nvs_encr.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/hwcrypto/aes.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/sys.o
+AS /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/dport_panic_highint_hdl.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/soc/esp32/sdio_slave_periph.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/soc/esp32/rtc_init.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/soc/esp32/spi_periph.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/tcp.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/soc/esp32/rtc_clk_init.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/soc/esp32/gpio_periph.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/soc/esp32/rtc_sleep.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32/libesp32.a
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/soc/esp32/rtc_time.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/esp32'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/spi_flash'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/spi_flash/flash_mmap.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/soc/esp32/rtc_clk.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/soc/src//memory_layout_utils.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver/sdmmc_transaction.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver/can.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver/spi_slave.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/spi_flash/partition.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/expat/libexpat.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/expat'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/smartconfig_ack'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/smartconfig_ack/smartconfig_ack.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/soc/libsoc.a
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver/i2s.o
+CXX /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/nvs_flash/src/nvs_pagemanager.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/soc'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/tcpip_adapter'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/tcpip_adapter/tcpip_adapter_lwip.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/spi_flash/spi_flash_rom_patch.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/smartconfig_ack/libsmartconfig_ack.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/smartconfig_ack'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/vfs'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/vfs/vfs_uart.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/timeouts.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver/sdmmc_host.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver/timer.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/spi_flash/cache_utils.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/dns.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver/periph_ctrl.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/spi_flash/flash_ops.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/vfs/vfs.o
+CXX /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/nvs_flash/src/nvs_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver/rtc_module.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/tcpip_adapter/libtcpip_adapter.a
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/spi_flash/libspi_flash.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/spi_flash'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/tcpip_adapter'
+CXX /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/nvs_flash/src/nvs_storage.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/crypto/aes-internal-enc.o
+CXX /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/nvs_flash/src/nvs_page.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/ip.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/crypto/sha256-internal.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/def.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/raw.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/crypto/md5-internal.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/tcp_in.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/vfs/libvfs.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/vfs'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/pbuf.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/crypto/aes-internal.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/netif.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/crypto/sha1.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/crypto/aes-internal-dec.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/stats.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/crypto/crypto_internal.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver/libdriver.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/driver'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/xtensa-debug-module'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/xtensa-debug-module/eri.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/crypto/aes-unwrap.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/inet_chksum.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/xtensa-debug-module/trax.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/crypto/crypto_internal-rsa.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/crypto/des-internal.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/xtensa-debug-module/libxtensa-debug-module.a
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/mosapp'
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/spiffs'
+  GEN   /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/gen/mgos_config.c
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/spiffs/spiffs_api.o
+make[1]: Entering directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt'
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/xtensa-debug-module'
+  MKDIR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fw_temp
+  MKDIR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/fw
+Building partitions from /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/modules/mongoose-os/platforms/esp32/src/partitions_mgos.csv...
+  GEN   /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/gen/mgos_ro_vars.c
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/udp.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/crypto/dh_group5.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/nvs_flash/libnvs_flash.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/nvs_flash'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/tcp_out.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/spiffs/esp_spiffs.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/crypto/ms_funcs.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/spiffs/spiffs/src/spiffs_cache.o
+CC esp32_nsleep100.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bt.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/spiffs/spiffs/src/spiffs_gc.o
+  GEN   /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/gen/ffi_exports.c
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/crypto/crypto_mbedtls.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/ffi_exports.o
+  CC mgos_debug.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/crypto/aes-wrap.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/spiffs/spiffs/src/spiffs_nucleus.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/ipv4/ip4_frag.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/crypto/sha1-internal.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/spiffs/spiffs/src/spiffs_check.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/crypto/md4-internal.o
+  CC mgos_net.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/dm/bta_dm_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/ipv4/dhcp.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/ipv4/etharp.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/crypto/dh_groups.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/crypto/sha256.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/crypto/md5.o
+  CC mgos_bitbang.o
+  CC mgos_config_util.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/crypto/aes-cbc.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/crypto/sha1-pbkdf2.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/crypto/rc4.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/crypto/crypto_internal-modexp.o
+  CC mgos_core_dump.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/spiffs/spiffs/src/spiffs_hydrogen.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/crypto/crypto_internal-cipher.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/crypto/bignum.o
+  CC mgos_dlsym.o
+  CC mgos_event.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/port/os_xtensa.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/dm/bta_dm_sco.o
+  CC mgos_gpio.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/ipv4/ip4_addr.o
+  CC mgos_init.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/fast_crypto/fast_aes-wrap.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/fast_crypto/fast_sha256-internal.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/fast_crypto/fast_aes-cbc.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/dm/bta_dm_co.o
+  CC mgos_mmap_esp.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/spiffs/libspiffs.a
+  CC mgos_sys_config.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/ipv4/igmp.o
+  CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/gen/mgos_config.o
+  CC mgos_ro_vars.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/dm/bta_dm_ci.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/spiffs'
+  CC mgos_file_utils.o
+  CC mgos_hw_timers.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/dm/bta_dm_act.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/dm/bta_dm_main.o
+  CC mgos_system.o
+  CC mgos_time.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/fast_crypto/fast_crypto_internal.o
+  CC mgos_timers.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/ipv4/ip4.o
+  CC mgos_uart.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/fast_crypto/fast_sha256.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/dm/bta_dm_pm.o
+  CC mgos_utils.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/fast_crypto/fast_aes-unwrap.o
+  CC esp32_crypto.o
+  CC esp32_debug.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/fast_crypto/fast_crypto_internal-modexp.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/ipv4/autoip.o
+  CC esp32_exc.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/dm/bta_dm_cfg.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/fast_crypto/fast_crypto_internal-cipher.o
+  CC esp32_fs_crypt.o
+  CC esp32_gpio.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/ipv4/icmp.o
+  CC esp32_hal.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/gatt/bta_gattc_main.o
+  CC esp32_hw_timers.o
+  CC esp32_main.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/ipv6/ip6_frag.o
+  CC esp32_uart.o
+  CXX error_codes.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/gatt/bta_gatt_common.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_common.o
+  CXX status.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/gatt/bta_gatts_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/ipv6/dhcp6.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/eap_peer/mschapv2.o
+  CC cs_crc32.o
+  CC cs_file.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/ipv6/inet6.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_tls.o
+  CC cs_rbuf.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/gatt/bta_gattc_co.o
+  CC json_utils.o
+  CC frozen.o
+  CC main.o
+  CC mgos_deps_init.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_tls_common.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/ipv6/ip6_addr.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/gatt/bta_gattc_cache.o
+  CC mgos_freertos.o
+  CC mgos_freertos_core_dump.o
+  CC mgos_i2c_master.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/ipv6/ip6.o
+  CC esp32_i2c_master.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/gatt/bta_gatts_main.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_ttls.o
+  CC mgos_atca.o
+  CC atca_cfgs.o
+  CC atca_command.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/gatt/bta_gattc_api.o
+  CC atca_device.o
+  CC atca_iface.o
+  CC atca_basic.o
+  CC atca_helpers.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/ipv6/nd6.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_peap.o
+  CC atca_host.o
+  CC mgos_vfs.o
+  CC mgos_vfs_dev.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/gatt/bta_gatts_utils.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/gatt/bta_gattc_ci.o
+  CC mgos_vfs_internal.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_mschapv2.o
+  CC esp32_fs.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/gatt/bta_gattc_act.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/gatt/bta_gatts_co.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/eap_peer/chap.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/eap_peer/eap_peap_common.o
+  CC esp32_vfs_dev_partition.o
+  CC mgos_vfs_lfs.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_record.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/tls/pkcs8.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/gatt/bta_gatts_act.o
+  CC lfs.o
+  CC lfs_util.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/tls/x509v3.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/ipv6/mld6.o
+  CC lfs1.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_cred.o
+  CC lfs1_util.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_client_read.o
+  CC mgos_vfs_fs_spiffs.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/ipv6/ethip6.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/gatt/bta_gattc_utils.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/core/ipv6/icmp6.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/hh/bta_hh_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/hh/bta_hh_utils.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_common.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/hh/bta_hh_le.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/hh/bta_hh_act.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/netif/slipif.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/tls/rsa.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_client_write.o
+  CC spiffs_cache.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/hh/bta_hh_main.o
+  CC spiffs_check.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/hh/bta_hh_cfg.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/sdp/bta_sdp.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/tls/asn1.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/netif/ethernet.o
+  CC spiffs_gc.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_client.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/sdp/bta_sdp_act.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_server_read.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/sdp/bta_sdp_cfg.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/netif/lowpan6.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/lwip/src/netif/ethernetif.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/sdp/bta_sdp_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/av/bta_av_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/tls/pkcs1.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/av/bta_av_ssm.o
+  CC spiffs_hydrogen.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/port/esp32/vfs_lwip.o
+  CC spiffs_nucleus.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/tls/pkcs5.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/av/bta_av_act.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/av/bta_av_ci.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_server.o
+  CC mgos_core.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/av/bta_av_main.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/port/esp32/freertos/sys_arch.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/tls/bignum.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/av/bta_av_sbc.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/av/bta_av_aact.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/av/bta_av_cfg.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/tls/tlsv1_server_write.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/ar/bta_ar.o
+  CC mgos_mqtt.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/port/esp32/netif/wlanif.o
+  CC mgos_shadow.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/sys/bta_sys_main.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/sys/utl.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/tls/tls_internal.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/port/esp32/netif/dhcp_state.o
+  CC mgos_aws.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/sys/bta_sys_conn.o
+  CC mgos_aws_greengrass.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/utils/base64.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wpa2/utils/ext_password.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/port/esp32/netif/ethernetif.o
+  CC mgos_aws_shadow.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wps/eap_common.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wps/wps_attr_process.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wps/wps_validate.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/jv/bta_jv_api.o
+  CC mgos_sntp.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/port/esp32/debug/lwip_debug.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wps/wps_attr_parse.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wps/wps_dev_attr.o
+  CC mgos_azure.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/jv/bta_jv_act.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wps/wps.o
+  CC mgos_azure_cm.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip/liblwip.a
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wps/wps_common.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wps/wps_registrar.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/jv/bta_jv_main.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/lwip'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/jv/bta_jv_cfg.o
+  CC mgos_azure_dm.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wps/wps_attr_build.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/hf_client/bta_hf_client_rfc.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/hf_client/bta_hf_client_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/hf_client/bta_hf_client_sco.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wps/uuid.o
+  CC mgos_azure_sas.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/hf_client/bta_hf_client_sdp.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/src/wps/wps_enrollee.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/hf_client/bta_hf_client_act.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/hf_client/bta_hf_client_main.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/hf_client/bta_hf_client_at.o
+  CC mgos_azure_shadow.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/bta/hf_client/bta_hf_client_cmd.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/device/interop.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/device/bdaddr.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/device/controller.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/hci/hci_hal_h4.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/hci/hci_packet_parser.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/hci/hci_audio.o
+  CC mgos_bt.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/hci/packet_fragmenter.o
+  CC mgos_bt_gap.o
+  CC mgos_bt_js.o
+  CC esp32_bt.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/hci/hci_layer.o
+  CC esp32_bt_gap.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/hci/hci_packet_factory.o
+  CC esp32_bt_gattc.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/main/bte_main.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/main/bte_init.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant/libwpa_supplicant.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/wpa_supplicant'
+  CC esp32_bt_gatts.o
+  CC mg_rpc.o
+  CC mg_rpc_channel.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/osi/future.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/osi/list.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/osi/semaphore.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/osi/hash_map.o
+  CC mg_rpc_channel_http.o
+  CC mgos_rpc.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/osi/fixed_queue.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/osi/allocator.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/osi/config.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/osi/osi.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/osi/mutex.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/osi/hash_functions.o
+  CC mgos_rpc_channel_ws.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/osi/alarm.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/osi/buffer.o
+  CC mgos_rpc_ws.o
+  CC mgos_gcp.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/external/sbc/decoder/srce/bitstream-decode.o
+  CC mgos_http_server.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/external/sbc/decoder/srce/synthesis-sbc.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/external/sbc/decoder/srce/decoder-oina.o
+  CC mgos_spi.o
+  CC mgos_spi_mjs.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/external/sbc/decoder/srce/synthesis-dct8.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/external/sbc/decoder/srce/framing.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/external/sbc/decoder/srce/dequant.o
+  CC esp32_spi_master.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/external/sbc/decoder/srce/alloc.o
+  CC mgos_ili9341.o
+  CC mgos_ili9341_font.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/external/sbc/decoder/srce/bitalloc.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/external/sbc/decoder/srce/bitalloc-sbc.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/external/sbc/decoder/srce/decoder-private.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/external/sbc/decoder/srce/synthesis-8-generated.o
+  CC mgos_ili9341_primitives.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/external/sbc/decoder/srce/framing-sbc.o
+  CC mos_mjs.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/external/sbc/decoder/srce/oi_codec_version.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/external/sbc/decoder/srce/decoder-sbc.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/external/sbc/encoder/srce/sbc_packing.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/external/sbc/encoder/srce/sbc_dct.o
+  CC mjs.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/external/sbc/encoder/srce/sbc_enc_bit_alloc_ste.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/external/sbc/encoder/srce/sbc_analysis.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/external/sbc/encoder/srce/sbc_enc_coeffs.o
+  CC esp32_mjs.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/external/sbc/encoder/srce/sbc_enc_bit_alloc_mono.o
+  CC mgos_rpc_channel_azure_dm.o
+  CC mgos_rpc_channel_mqtt.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/external/sbc/encoder/srce/sbc_dct_coeffs.o
+  CC mgos_service_config.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/external/sbc/encoder/srce/sbc_encoder.o
+  CC mgos_service_filesystem.o
+  CC mgos_rpc_channel_uart.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/core/btc_util.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/core/btc_task.o
+  CC mgos_watson.o
+  CC mgos_wifi.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/core/btc_main.o
+  CC mjs_wifi.o
+  CC esp32_wifi.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/core/btc_config.o
+  GEN   /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/gen/mg_build_info.c
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/core/btc_dev.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/core/btc_storage.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/core/btc_ble_storage.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/core/btc_profile_queue.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/core/btc_alarm.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/core/btc_manage.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/core/btc_sec.o
+  CC mg_build_info.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/core/btc_sm.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/core/btc_dm.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/profile/esp/blufi/blufi_prf.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/profile/esp/blufi/blufi_protocol.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/profile/std/gap/btc_gap_bt.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/profile/std/gap/btc_gap_ble.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/profile/std/gatt/btc_gatts.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/profile/std/gatt/btc_gatt_util.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/profile/std/gatt/btc_gattc.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/profile/std/gatt/btc_gatt_common.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/profile/std/a2dp/btc_a2dp_source.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/profile/std/a2dp/bta_av_co.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/profile/std/a2dp/btc_a2dp.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/profile/std/a2dp/btc_a2dp_sink.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/profile/std/a2dp/btc_av.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/profile/std/a2dp/btc_a2dp_control.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/profile/std/avrc/btc_avrc.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/profile/std/spp/btc_spp.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/profile/std/hf_client/bta_hf_client_co.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/btc/profile/std/hf_client/btc_hf_client.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/btm/btm_ble_batchscan.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/btm/btm_ble_cont_energy.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/btm/btm_sec.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/btm/btm_ble.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/btm/btm_pm.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/btm/btm_ble_adv_filter.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/btm/btm_inq.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/btm/btm_main.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/btm/btm_devctl.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/btm/btm_ble_privacy.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/btm/btm_acl.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/btm/btm_ble_bgconn.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/btm/btm_dev.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/btm/btm_ble_gap.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/btm/btm_ble_multi_adv.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/btm/btm_ble_addr.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/btm/btm_sco.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/btu/btu_hcif.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/btu/btu_task.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/btu/btu_init.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/gap/gap_ble.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/gap/gap_conn.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/gap/gap_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/gap/gap_utils.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/gatt/gatt_db.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/gatt/gatt_cl.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/gatt/gatt_attr.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/gatt/gatt_main.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/gatt/gatt_sr.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/gatt/att_protocol.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/gatt/gatt_auth.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/gatt/gatt_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/gatt/gatt_utils.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/hcic/hciblecmds.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/hcic/hcicmds.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/l2cap/l2c_ble.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/l2cap/l2c_main.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/l2cap/l2c_utils.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/l2cap/l2cap_client.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/l2cap/l2c_ucd.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/l2cap/l2c_csm.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/l2cap/l2c_link.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/l2cap/l2c_fcr.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/l2cap/l2c_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/sdp/sdp_utils.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/sdp/sdp_db.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/sdp/sdp_discovery.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/sdp/sdp_main.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/sdp/sdp_server.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/sdp/sdp_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/smp/smp_main.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/smp/p_256_curvepara.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/smp/smp_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/smp/smp_utils.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/smp/p_256_ecc_pp.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/smp/smp_act.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/smp/smp_keys.o
+  GEN   /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/gen/build_info.c
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/smp/smp_br_main.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/smp/aes.o
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+  CC build_info.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/mosapp/libmosapp.a
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/smp/smp_cmac.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/smp/p_256_multprecision.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/smp/smp_l2c.o
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/mosapp'
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/avct/avct_lcb.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/avct/avct_lcb_act.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/avct/avct_l2c.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/avct/avct_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/avct/avct_ccb.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/avrc/avrc_pars_ct.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/avrc/avrc_opt.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/avrc/avrc_bld_ct.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/avrc/avrc_pars_tg.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/avrc/avrc_bld_tg.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/avrc/avrc_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/avrc/avrc_utils.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/avrc/avrc_sdp.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/avdt/avdt_l2c.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/avdt/avdt_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/avdt/avdt_ccb.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/avdt/avdt_scb.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/avdt/avdt_scb_act.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/avdt/avdt_msg.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/avdt/avdt_ccb_act.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/avdt/avdt_ad.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/a2dp/a2d_sbc.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/a2dp/a2d_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/rfcomm/rfc_port_if.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/rfcomm/rfc_port_fsm.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/rfcomm/rfc_mx_fsm.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/rfcomm/port_rfc.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/rfcomm/port_utils.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/rfcomm/port_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/rfcomm/rfc_l2cap_if.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/rfcomm/rfc_utils.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/stack/rfcomm/rfc_ts_frames.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/api/esp_avrc_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/api/esp_spp_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/api/esp_bt_main.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/api/esp_bt_device.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/api/esp_gap_bt_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/api/esp_a2dp_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/api/esp_gattc_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/api/esp_blufi_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/api/esp_gap_ble_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/api/esp_gatts_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/api/esp_gatt_common_api.o
+CC /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/bluedroid/api/esp_hf_client_api.o
+AR /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt/libbt.a
+make[1]: Leaving directory '/data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bt'
+LD /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/m5_hz.elf
+esptool.py v2.6
+    App size: 1487760 of 1572864 (94%)
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ca-bundle/fs/ca.pem -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/fs/api_bitbang.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/fs/api_config.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/fs/api_events.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/fs/api_gpio.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/fs/api_http.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/fs/api_log.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/fs/api_net.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/fs/api_sys.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/fs/api_timer.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/fs/api_uart.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/fs/init.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/fs/polyfill.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/modules/mjs/mjs/lib/api_dataview.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/modules/mjs/mjs/lib/api_file.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/modules/mjs/mjs/lib/api_math.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/i2c/mjs_fs/api_i2c.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mqtt/mjs_fs/api_mqtt.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/shadow/mjs_fs/api_shadow.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/aws/mjs_fs/api_aws.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/azure/mjs_fs/api_azure.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/mjs_fs/api_bt_gap.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/mjs_fs/api_bt_gatt.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/mjs_fs/api_bt_gattc.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/bt-common/mjs_fs/api_bt_gatts.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ota-http-client/mjs_fs/api_ota.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/rpc-common/mjs_fs/api_rpc.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/dash/mjs_fs/api_dash.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/gcp/mjs_fs/api_gcp.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/spi/mjs_fs/api_spi.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/ili9341-spi/mjs_fs/api_ili9341_spi.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/watson/mjs_fs/api_watson.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/wifi/mjs_fs/api_wifi.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/esp32/fs/api_arch_uart.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/deps/mjs/esp32/fs/api_esp32.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/fs/init.js -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  CP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/gen/conf0.json -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs
+  MKFS  /usr/local/bin/mkspiffs8 262144 {bs: 4096, ps: 256, es: 4096} /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fs -> /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fw_temp/fs.img
+     FS params: size=262144, bs=4096, ps=256, es=4096
+       Adding api_dash.js: 736
+       Adding api_shadow.js: 1687
+       Adding init.js: 7778
+       Adding api_net.js: 5122
+       Adding api_gcp.js: 230
+       Adding api_i2c.js: 4880
+       Adding api_wifi.js: 1020
+       Adding api_http.js: 3812
+       Adding api_events.js: 3857
+       Adding api_config.js: 2170
+       Adding api_mqtt.js: 2927
+       Adding api_ili9341_spi.js: 3279
+       Adding api_rpc.js: 2792
+       Adding api_bt_gattc.js: 1299
+       Adding api_aws.js: 3751
+       Adding api_file.js: 2105
+       Adding api_math.js: 1890
+       Adding api_gpio.js: 3571
+       Adding api_watson.js: 496
+       Adding api_timer.js: 1750
+       Adding api_bt_gatt.js: 886
+       Adding api_uart.js: 5772
+       Adding api_esp32.js: 460
+       Adding api_bitbang.js: 815
+       Adding api_arch_uart.js: 1206
+       Adding api_spi.js: 4155
+       Adding api_sys.js: 1652
+       Adding api_ota.js: 278
+       Adding api_bt_gatts.js: 2403
+       Adding api_log.js: 2005
+       Adding api_azure.js: 728
+       Adding polyfill.js: 1415
+       Adding ca.pem: 27086
+       Adding api_bt_gap.js: 482
+       Adding api_dataview.js: 7433
+       Adding conf0.json: 3
+     FS stats : space total=233681, used=124998, free=108683
+  GEN    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fw_temp/manifest.json
+  ZIP    /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/fw/m5_hz-esp32-last.zip
+     Adding /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fw_temp/bootloader.bin
+     Adding /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fw_temp/fs.img
+     Adding /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fw_temp/m5_hz.bin
+     Adding /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fw_temp/otadata.bin
+     Adding /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/fw_temp/partitions_mgos.bin
+  Built m5_hz/esp32 version 1.0 (20190914-092457)
+To flash all build output, run 'make flash' or:
+python /opt/Espressif/esp-idf/components/esptool_py/esptool/esptool.py --chip esp32 --port /dev/ttyUSB0 --baud 1500000 --before default_reset --after hard_reset write_flash -z --flash_mode qio --flash_freq 40m --flash_size detect 0xd000 /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/ota_data_initial.bin 0x1000 /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/bootloader/bootloader.bin 0x10000 /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/m5_hz.bin 0x8000 /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/objs/partitions_mgos.bin
+make: Leaving directory '/app'
+Success, built m5_hz/esp32 version 1.0 (20190914-092457).
+Firmware saved to /data/fwbuild-volumes/2.15.0/apps/m5_hz/esp32/build_contexts/build_ctx_750153556/build/fw.zip
